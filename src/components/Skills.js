@@ -35,21 +35,34 @@ const Skills = () => {
               "
           whileHover={{ scale: 1.05 }}
         >
-          Web
+          Python
         </motion.div>
 
-        <Skill name="HTML" x="-20vw" y="2vw" />
+        <Skill name="Pandas" x="-20vw" y="2vw" />
 
-        <Skill name="CSS" x="-5vw" y="-10vw" />
-        <Skill name="Javascript" x="20vw" y="6vw" />
-        <Skill name="ReactJS" x="0vw" y="12vw" />
-        <Skill name="NextJS" x="-20vw" y="-15vw" />
-        <Skill name="GatsbyJS" x="15vw" y="-12vw" />
+        <Skill name="Machine Learning" x="-5vw" y="-10vw" />
+        <Skill name="SQL" x="15vw" y="0vw" />
+        <Skill name="Fast API" x="10vw" y="20svw" />
+        <Skill name="Web Scrapping" x="-15vw" y="10svw" />
+        <Skill name="Computer Vision" x="-35vw" y="5svw" />
+        <Skill name="Logistic Regression" x="35vw" y="10svw" />
+        <Skill name="Linear Regression" x="30vw" y="-15svw" />
+        <Skill name="KNN" x="-20vw" y="-8svw" />
+        <Skill name="Random Forest" x="-35vw" y="-13svw" />
+        <Skill name="XG Boost" x="-8vw" y="18svw" />
+        <Skill name="Cat Boost" x="30vw" y="2svw" />
+        <Skill name="Light GBM" x="14vw" y="12svw" />
+        <Skill name="SVM" x="14vw" y="-20svw" />
+        <Skill name="Clustering" x="1vw" y="-15svw" />
+        <Skill name="EDA" x="20vw" y="6vw" />
+        <Skill name="Tableau" x="0vw" y="12vw" />
+        <Skill name="Scikit-Learn" x="-20vw" y="-15vw" />
+        <Skill name="Time Series" x="15vw" y="-12vw" />
         <Skill name="Github" x="-35vw" y="-5vw" />
-        <Skill name="Web Design" x="32vw" y="-5vw" />
-        <Skill name="Figma" x="0vw" y="-20vw" />
-        <Skill name="Firebase" x="-25vw" y="18vw" />
-        <Skill name="Tawilwind CSS" x="28vw" y="18vw" />
+        <Skill name="Streamlit" x="32vw" y="-5vw" />
+        <Skill name="Statistics" x="-6vw" y="-20vw" />
+        <Skill name="Deep Learning" x="-25vw" y="18vw" />
+        <Skill name="Keras/Tensorflow" x="28vw" y="18vw" />
 
       </div>
     </>
