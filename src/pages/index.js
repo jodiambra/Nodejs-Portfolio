@@ -7,7 +7,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link';
 import profilePic from "../../public/images/profile/developer-pic-1.png";
-import lightBulb from "../../public/images/svgs/CircularText.svg";
+import lightBulb from "../../public/images/svgs/miscellaneous_icons_1.svg";
 
 
 export default function Home() {
