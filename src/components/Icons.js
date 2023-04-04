@@ -428,16 +428,14 @@ export const MoonIcon = ({ className, ...rest }) => (
 );
 
 export const CircularText = ({ className, ...rest }) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width="496"
-    height="496"
-    viewBox="0 0 496 496"
-    xmlSpace="preserve"
-    className={`w-full h-auto ${className}`}
-    {...rest}
-  >
-    <path d="M1417 2577 c-16 -50 -31 -100 -34 -109 -4 -13 0 -18 15 -18 13 0 22
+  <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="300.000000pt" height="300.000000pt" viewBox="0 0 300.000000 300.000000"
+    preserveAspectRatio="xMidYMid meet">
+    
+<g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)"
+      fill="#000000" stroke="none">
+      
+<path d="M1417 2577 c-16 -50 -31 -100 -34 -109 -4 -13 0 -18 15 -18 13 0 22
 9 26 25 6 22 12 25 51 25 39 0 47 -3 55 -25 6 -15 17 -25 30 -25 19 0 18 4
 -14 93 -19 50 -37 100 -41 110 -4 10 -18 17 -34 17 -24 0 -28 -6 -54 -93z m71
 16 c5 -16 13 -36 17 -45 6 -15 1 -18 -30 -18 -31 0 -36 3 -30 18 3 9 9 29 12
@@ -577,7 +575,11 @@ c-14 -25 -46 -55 -54 -50 -16 9 -10 40 12 63 16 17 24 20 35 10 7 -6 11 -16 7
 -12 -78 l-5 -39 -37 9 c-57 13 -75 52 -52 114 11 30 40 43 82 37 28 -4 29 -6
 24 -43z"/>
 <path d="M1530 540 c0 -13 7 -20 18 -20 24 0 32 8 25 26 -8 22 -43 17 -43 -6z"/>
+
+</g>
+    
 </svg>
+
 );
 
 export const LinkArrow = ({ className, ...rest }) => (
