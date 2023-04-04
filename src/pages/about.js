@@ -56,7 +56,7 @@ const about = () => {
                 Biography
               </h2>
               <p className="font-medium">
-                Hi there! My name is Jacques Diambra Odi, and I'm a data scientist based in Atlanta, GA. I have over
+                Hi there! My name is Jacques Diambra Odi, and I&apos;m a data scientist based in Atlanta, GA. I have over
                 8 years of experience in research and development fields, where I honed my skills in critical thinking,
                 problem-solving, and data analysis. My passion for using data to uncover insights and drive decision-making
                 led me to pursue a career in data science, where I can combine my scientific knowledge with advanced
@@ -79,7 +79,7 @@ const about = () => {
 
               <p className="font-medium">
                 I hold an M.S. in Biology from the University of Guam and a B.S. in Biology from the University of Pittsburgh.
-                I'm also a graduate of Practicum US Data Science Bootcamp, where i further enhanced my skills. When I'm not working,
+                I&apos;m also a graduate of Practicum US Data Science Bootcamp, where i further enhanced my skills. When I&apos;m not working,
                 you can find me on Github, Portfolio, or LinkedIn.
               </p>
             </div>
