@@ -63,7 +63,7 @@ const about = () => {
                 analytics techniques.
               </p>
 
-              <p className="font-medium" style="margin-bottom: 16px;">
+              <p className="font-medium">
                 With a strong foundation in statistics, programming, and machine learning, I can create models
                 and algorithms that turn raw data into meaningful insights. I am enthusiastic about continuing to
                 build my skills and applying them to real-world challenges.
@@ -81,12 +81,9 @@ const about = () => {
                 I hold an M.S. in Biology from the University of Guam and a B.S. in Biology from the University of Pittsburgh.
                 I&apos;m also a graduate of Practicum US Data Science Bootcamp, where i further enhanced my skills. When I&apos;m not working,
                 you can find me on Github, Portfolio, or LinkedIn.
-              </p>
 
-              <p className="font-medium" style="margin-bottom: 16px;">
-                When I&apos;m not working on improving my data skillset, I enjoy playing soccer and practicing jiujitsu. I also have entrepreneurial ventures, one of which is a real estate investing company, which I run with my siblings. 
+                When I&apos;m not working on improving my data skillset, I enjoy playing soccer and practicing jiujitsu. I also have entrepreneurial ventures, one of which is a real estate investing company, which I run with my siblings.
               </p>
-
             </div>
 
             <div
