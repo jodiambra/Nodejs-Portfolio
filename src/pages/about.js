@@ -82,6 +82,10 @@ const about = () => {
                 I&apos;m also a graduate of Practicum US Data Science Bootcamp, where i further enhanced my skills. When I&apos;m not working,
                 you can find me on Github, Portfolio, or LinkedIn.
               </p>
+
+              <p className="font-medium">
+                When I&apos;m not working on improving my data skillset, I enjoy playing soccer and practicing jiujitsu. I also have entrepreneurial ventures, one of which is a real estate investing company, which I run with my siblings. 
+              </p>
             </div>
 
             <div
