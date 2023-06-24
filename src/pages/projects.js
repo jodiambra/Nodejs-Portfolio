@@ -20,6 +20,7 @@ import project12 from "../../public/images/projects/tinder.jpg";
 import project13 from "../../public/images/projects/manga.jpg";
 import project14 from "../../public/images/projects/fast_food.jpg";
 import project15 from "../../public/images/projects/breast_cancer.jpg";
+import project16 from "../../public/images/projects/yachay.jpg";
 
 import { motion } from "framer-motion";
 import TransitionEffect from "@/components/TransitionEffect";
@@ -168,8 +169,18 @@ const projects = () => {
             text="EDA and Machine Learning"
             className="mb-16 lg:!text-7xl sm:mb-8 sm:!text-6xl xs:!text-4xl"
           />
-
           <div className="grid grid-cols-12 gap-24 gap-y-32 xl:gap-x-16 lg:gap-x-8 md:gap-y-24 sm:gap-x-0">
+            <div className="col-span-12">
+              <FeaturedProject
+                type="NLP and Neural Networks"
+                title="Yachay AI"
+                summary="We trained a neural network to predict geolocation based on Tweets as part of Yachay AI internship."
+                img={project16}
+                link="https://jodiambra.github.io/Yachay.ai/"
+                github="https://github.com/jodiambra/Yachay.ai/tree/main"
+              />
+            </div>
+
             <div className="col-span-12">
               <FeaturedProject
                 type="Exploratory Data Analysis"
