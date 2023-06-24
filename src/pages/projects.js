@@ -227,7 +227,7 @@ const projects = () => {
             </div>
 
             <div className="col-span-6 sm:col-span-12">
-              <FeaturedProject
+              <Project
                 type="Machine Learning"
                 title="Sweet Lift Taxi Time Series Forecast"
                 img={project4}
@@ -237,7 +237,7 @@ const projects = () => {
             </div>
 
             <div className="col-span-6 sm:col-span-12">
-              <FeaturedProject
+              <Project
                 type="EDA Web App"
                 title="Spotify Exploratory Data Analysis"
                 img={project5}
