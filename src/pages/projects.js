@@ -230,7 +230,6 @@ const projects = () => {
               <FeaturedProject
                 type="Machine Learning"
                 title="Sweet Lift Taxi Time Series Forecast"
-                summary="We provided a model for Sweet Lift Taxi to predict the number of orders of the next hour, allowing their drivers to anticipate times of high demand."
                 img={project4}
                 link="https://jodiambra.github.io/Sweet-Lift-Taxi-Time-Series-Predictions/"
                 github="https://github.com/jodiambra/Sweet-Lift-Taxi-Time-Series-Predictions"
@@ -241,7 +240,6 @@ const projects = () => {
               <FeaturedProject
                 type="EDA Web App"
                 title="Spotify Exploratory Data Analysis"
-                summary="We identified trends in Spotify users and songs, as well as the relationship between music awards and popular culture with the most popular artists on the platform."
                 img={project5}
                 link="https://spotify-eda.onrender.com/"
                 github="https://github.com/jodiambra/Spotify-EDA-and-Web-App"
