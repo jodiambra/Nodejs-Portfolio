@@ -21,6 +21,7 @@ import project13 from "../../public/images/projects/manga.jpg";
 import project14 from "../../public/images/projects/fast_food.jpg";
 import project15 from "../../public/images/projects/breast_cancer.jpg";
 import project16 from "../../public/images/projects/yachay.jpg";
+import project17 from "../../public/images/projects/state farm.jpg";
 
 import { motion } from "framer-motion";
 import TransitionEffect from "@/components/TransitionEffect";
@@ -183,6 +184,17 @@ const projects = () => {
 
             <div className="col-span-12">
               <FeaturedProject
+                type="End to End Data Science project"
+                title="State Farm Insurance"
+                summary="We demonstrated data science skills in an end to end project from datasets provided by State Farm, culminating with a classification model. "
+                img={project17}
+                link="https://jodiambra.github.io/State-Farm/"
+                github="https://github.com/jodiambra/State-Farm"
+              />
+            </div>
+
+            <div className="col-span-12">
+              <FeaturedProject
                 type="Exploratory Data Analysis"
                 title="ICE Retail"
                 summary="We conducted EDA to determine a profitable strategy in North America, which entails selling the next big Call of Duty or GTA game on the PS4."
@@ -214,7 +226,7 @@ const projects = () => {
               />
             </div>
 
-            <div className="col-span-12">
+            <div className="col-span-6 sm:col-span-12">
               <FeaturedProject
                 type="Machine Learning"
                 title="Sweet Lift Taxi Time Series Forecast"
@@ -225,7 +237,7 @@ const projects = () => {
               />
             </div>
 
-            <div className="col-span-12">
+            <div className="col-span-6 sm:col-span-12">
               <FeaturedProject
                 type="EDA Web App"
                 title="Spotify Exploratory Data Analysis"
